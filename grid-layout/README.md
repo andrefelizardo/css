@@ -1,0 +1,3 @@
+<h1>Grid Layout</h1>
+<p>Grid Layout vem aumentando sua entrada nos browsers, e de acordo com o <a href="http://caniuse.com/#search=grid">caniuse</a>, atualmente ele funciona em 72% dos navegadores do mundo e 85% dos navegadores no Brasil, o que já é bastante coisa.</p> 
+<p>Contudo, pro IE e Edge o suporte ainda é parcial, então ainda não é aconselhável que você use Grid Layout em produção, a não ser que você não se importe de usar um polyfill, como <a href="https://github.com/FremyCompany/css-grid-polyfill">esse</a> aqui.</p>
